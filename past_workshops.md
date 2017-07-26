@@ -28,7 +28,7 @@
 - https://djangogirls.org/pycon/
 - Organized by Hailee, Nate, and Terian
 
-## Octoberish, 2017
+## October 14th, 2017
 - Held at NXT
 - Website TBD
 - Organized by Brigette, Hailee, Nate, Rachel, and Terian
