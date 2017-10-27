@@ -1,3 +1,5 @@
+![screen shot 2017-10-26 at 5 04 59 pm](https://user-images.githubusercontent.com/7772827/32082503-d843b218-ba70-11e7-90cc-f4c5e2a4324d.png)
+
 This is the contract for Django Girls PDX organizers that we all agreed to on 10/24/17! It’s intended to hold us all accountable so that we can do our best to respect the time and money of our attendees, coaches, sponsors, partner businesses, and our fellow organizers. By agreeing to these statements we are making a promise that we will keep all of these folks’ best interests at heart.
 
 ### Django Girls PDX is about:
