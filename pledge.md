@@ -29,4 +29,5 @@ In addition to maintaining our principles, we agree to commit to the following e
 Signed by:
 - Terian Koscik (@spinecone) on 10/26/17
 - Rachel Klein (@rachelkleinpdx) on 10/26/17
+- Hailee Kenney (@HAIL9000) on 10/27/17
 - [ your name here! ]
