@@ -23,3 +23,7 @@ In addition to maintaining our principles, we agree to commit to the following e
 - Mistakes happen! The important thing is noticing them, correcting them, and trying not to make the same one twice. Consider having someone who can double check your work for mistakes/typos
 - Make sure any outward facing work aligns with the Django Girls ~*~brand~*~ (a style guide about this is on the way)
 - Respect the folks we’re working with, if people have a positive experience with Django Girls they’ll probably help us out again in the future!
+
+Signed by:
+- Terian Koscik (@spinecone) on 10/26/17
+- [ your name here! ]
