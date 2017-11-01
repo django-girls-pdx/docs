@@ -23,7 +23,7 @@ In addition to maintaining our principles, we agree to commit to the following e
 
 ### Quality of Work
 - Mistakes happen! The important thing is noticing them, correcting them, and trying not to make the same one twice. Consider having someone who can double check your work for mistakes/typos
-- Make sure any outward facing work aligns with the Django Girls ✨brand✨. For mor details on what this means, please see the [style guide](https://github.com/djangogirlspdx/docs/blob/master/style_guide.md).
+- Make sure any outward facing work aligns with the Django Girls ✨brand✨. For more details on what this means, please see the [style guide](https://github.com/djangogirlspdx/docs/blob/master/style_guide.md).
 - Respect the folks we’re working with, if people have a positive experience with Django Girls they’ll probably help us out again in the future!
 
 #### Signed by:
