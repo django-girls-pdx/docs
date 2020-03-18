@@ -1,5 +1,5 @@
 # Venues
-Django Girls PDX has been hosted at many fine venues, most of which sadly do not exist anymore. :broken_heart:
+Django Girls PDX has been hosted at many fine venues, many of which sadly do not exist anymore. :broken_heart:
 
 What we look for in venues:
 - Central location close to public transportation and parking
@@ -15,3 +15,5 @@ Places who have hosted us:
 - **Treehouse** at 3514 N Vancouver Ave, Suite 400 (another old office, no longer exists)
 - **Oregon Convention Center**, during PyCon
 - **NXT Industries** at 1302 SE Martin Luther King Jr Blvd
+- **Alchemy Code Lab** at 30 NW 10th Ave, Portland, OR 97209
+- **Puppet** at 308 SW 2nd Ave, Portland, OR 97204
