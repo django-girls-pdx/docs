@@ -12,3 +12,5 @@ Places who have catered for us in the past:
 - **Chipotle** (https://www.chipotle.com/); they're cheap, easy to work with, and an attendee told us that she decided to apply because her friend who attended previously told her about the chipotle we ordered.
 - **Nicholas Restaurant** (http://nicholasrestaurant.com/)
 - **Back to Eden Bakery** (https://www.backtoedenbakery.com/); an all vegan and gluten free bakery, great simple + cheap option for breakfast.
+- **La Bonita** (https://labonitapdx.com/); tasty mexican food, local and family owned, most of the options are vegan and gluten free
+- **Sizzle Pie** (https://www.sizzlepie.com/); good pizza, extensive vegan options, gluten free crust
